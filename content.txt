@@ -1,0 +1,23 @@
+OOP focuses on the objects that developers want to manipulate rather than the logic required to manipulate them. This approach to programming is well-suited for programs that are large, complex and actively updated or maintained.
+
+The organization of an object-oriented program also makes the method beneficial to collaborative development, where projects are divided into groups.
+
+Additional benefits of OOP include code reusability, scalability and efficiency. Even when using microservices, developers should continue to apply the principles of OOP.
+
+The first step in OOP is to collect all of the objects a programmer wants to manipulate and identify how they relate to each other -- an exercise often known as data modeling.
+
+Examples of an object can range from physical entities, such as a human being who is described by properties like name and address, down to small computer programs, such as widgets.
+
+A depiction of object-oriented programming
+An example of the conventions in object-oriented programming.
+Once an object is known, it is labeled with a class of objects that defines the kind of data it contains and any logic sequences that can manipulate it. Each distinct logic sequence is known as a method. Objects can communicate with well-defined interfaces called messages.
+
+Principles of OOP
+Object-oriented programming is based on the following principles:
+
+Encapsulation. The implementation and state of each object are privately held inside a defined boundary, or class. Other objects do not have access to this class or the authority to make changes but are only able to call a list of public functions, or methods. This characteristic of data hiding provides greater program security and avoids unintended data corruption.
+Abstraction. Objects only reveal internal mechanisms that are relevant for the use of other objects, hiding any unnecessary implementation code. This concept helps developers more easily make changes and additions over time.
+Inheritance. Relationships and subclasses between objects can be assigned, allowing developers to reuse a common logic while still maintaining a unique hierarchy. This property of OOP forces a more thorough data analysis, reduces development time and ensures a higher level of accuracy.
+Polymorphism. Objects can take on more than one form depending on the context. The program will determine which meaning or usage is necessary for each execution of that object, cutting down the need to duplicate code.
+Object-oriented programming languages
+While Simula is credited as the first object-oriented programming language, the most popular OOP languages are:

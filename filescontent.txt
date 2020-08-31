@@ -1,0 +1,17 @@
+A database consist of a huge amount of data. The data is grouped within a table in RDBMS, and each table have related records. A user can see that the data is stored in form of tables, but in acutal this huge amount of data is stored in physical memory in form of files.
+
+File – A file is named collection of related information that is recorded on secondary storage such as magnetic disks, magnetic tables and optical disks.
+
+What is File Organization?
+File Organization refers to the logical relationships among various records that constitute the file, particularly with respect to the means of identification and access to any specific record. In simple terms, Storing the files in certain order is called file Organization. File Structure refers to the format of the label and data blocks and of any logical control record.
+
+Types of File Organizations –
+Various methods have been introduced to Organize files. These particular methods have advantages and disadvantages on the basis of access or selection . Thus it is all upon the programmer to decide the best suited file Organization method according to his requirements.
+Some types of File Organizations are :
+
+Sequential File Organization
+Heap File Organization
+Hash File Organization
+B+ Tree File Organization
+Clustered File Organization
+We will be discussing each of the file Organizations in further sets of this article along with differences and advantages/ disadvantages of each file Organization methods.
